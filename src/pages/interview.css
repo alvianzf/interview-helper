@@ -1,0 +1,24 @@
+/* Common styles for interview sections */
+.interview--preview-wrapper,
+.interview--detail-wrapper {
+  display: flex;
+  background-color: var(--highlight);
+  margin: 1em;
+  padding: 1em;
+  border-radius: 6px;
+}
+
+.interview--wrapper {
+  display: flex;
+  justify-content: space-around;
+  border-radius: 6px;
+}
+
+.interview--preview-wrapper {
+  min-width: 60%;
+}
+
+.interview--detail-wrapper {
+  flex-direction: column;
+  width: 100%;
+}
