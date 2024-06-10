@@ -1,8 +1,9 @@
 :root {
-  --background: #1F2937;
-  --highlight: #374151;
-  --forelight: #D1D5DB;
+  --background: #111827;
+  --highlight: #1F2937;
+  --forelight: #9CA3AF;
   --color-white: #FFFFFF;
+  --headings: #D1D5DB;
   --font-family: Arial, sans-serif;
 
   background-color: var(--background);

@@ -1,0 +1,12 @@
+.profile-data {
+    padding: 1em;
+    background-color: var(--highlight);
+    border-radius: 6px;
+}
+
+.score-input {
+    margin-top: 1em;
+    padding: 1em;
+    background-color: var(--highlight);
+    border-radius: 6px;
+}
